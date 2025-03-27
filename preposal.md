@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-ARCAD GAME
+Arcad Game
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-FAHIM MUNTASIR
+Fahim Muntasir
 
 ## Do you have any questions of your own?
 
-NO
+No
